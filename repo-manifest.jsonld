@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/xarray-contrib/xarray-schema/commit/bed4d2d968922429c10b6594112b47b0f25dccd4",
       "git:hexsha": "bed4d2d968922429c10b6594112b47b0f25dccd4",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-16T03:23:59.311217+00:00"
     },
     {
       "@id": "https://repolex.ai/r/xarray-contrib/xarray-schema/commit/51682a4ef5e6440ea74881bdfc6914a46a74972c",
